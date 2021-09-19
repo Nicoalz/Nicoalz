@@ -1,7 +1,17 @@
 ![Hello World](/img/hello_world.gif)
 ***
-### Hi I'm Nicoalz 👋
-🇫🇷 French
+### Hi ! I'm Nicoalz 👋
+```
+#nicoalz {
+    name: Nicolas;
+    surname: Bordeaux;
+    nationality: French;
+    city: Paris;
+    age: 19;
+}
+```
+
+***
 
 💻 Web Development Student
 
