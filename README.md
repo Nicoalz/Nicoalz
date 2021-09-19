@@ -1,16 +1,22 @@
-### Hi there 👋
+![Hello World](/img/hello_world.gif)
+***
+### Hi I'm Nicoalz 👋
+🇫🇷 French
 
-<!--
-**Nicoalz/Nicoalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Development Student
 
-Here are some ideas to get you started:
+🎓 IIM - Pôle Léonard de Vinci - Paris
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Mail : [nicolas.bordeaux@edu.devinci.fr](nicolas.bordeaux@edu.devinci.fr)
+
+🤝 Connect with me : <br>
+[![LinkedIn](/img/logo-linkedin.png)](https://www.linkedin.com/in/nicolas-bordeaux-720601207/)
+
+***
+
+![html5](/img/html5.png) ![css3](/img/css3.png)  ![js](/img/js.png) ![php](/img/php.png) ![python](/img/python.png) ![adobe-suite](/img/adobe-suite.png) 
+
+***
+
+>*I will always choose a lazy person to do a difficult job because a lazy person will find an easy way to do it.*
+**Bill Gates**
