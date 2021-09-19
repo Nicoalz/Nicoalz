@@ -17,7 +17,7 @@
 
 🎓 IIM - Pôle Léonard de Vinci - Paris
 
-📧 Mail : [nicolas.bordeaux@edu.devinci.fr](nicolas.bordeaux@edu.devinci.fr)
+📧 Mail : <nicolas.bordeaux@edu.devinci.fr>
 
 🤝 Connect with me : <br>
 [![LinkedIn](/img/logo-linkedin.png)](https://www.linkedin.com/in/nicolas-bordeaux-720601207/)
