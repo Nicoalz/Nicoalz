@@ -13,7 +13,7 @@
 
 ***
 
-🔗 [Click here to visite my portfolio](https://nicoalz.github.io/portfolio/index.html)
+🔗 [Click here to visite my portfolio](https://portfolio.nicolasbordeaux.tk/)
 
 💻 Web Development Student
 
@@ -26,7 +26,7 @@
 
 ***
 
-![html5](/img/html5.png) ![css3](/img/css3.png)  ![js](/img/js.png) ![php](/img/php.png) ![python](/img/python.png) ![adobe-suite](/img/adobe-suite.png) 
+![html5](/img/html5.png) ![css3](/img/css3.png)  ![js](/img/js.png) ![php](/img/php.png) ![python](/img/python.png) ![wordpress](/img/wordpress.png) ![git](/img/git.png) ![adobe-suite](/img/adobe-suite.png) 
 
 ***
 
