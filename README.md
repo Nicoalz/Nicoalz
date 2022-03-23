@@ -7,7 +7,7 @@
     surname: Bordeaux;
     nationality: French;
     city: Paris;
-    age: 19;
+    age: 20;
 }
 ```
 
