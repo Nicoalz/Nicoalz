@@ -26,7 +26,7 @@
 
 ***
 
-![react](/img/react.png) ![nextjs](/img/nextjs.png) ![svelte](/img/svelte.png) ![tailwind](/img/tailwind.png) ![web3js](/img/web3js.png) ![typescript](/img/tailwind.png) ![nodejs](/img/nodejs.png) ![serverless](/img/serverless.png) ![solidity](/img/solidity.png)
+![react](/img/react.png) ![nextjs](/img/nextjs.png) ![svelte](/img/svelte.png) ![tailwind](/img/tailwind.png) ![web3js](/img/web3js.png) ![typescript](/img/typescript.png) ![nodejs](/img/nodejs.png) ![serverless](/img/serverless.png) ![solidity](/img/solidity.png)
 
 ***
 
