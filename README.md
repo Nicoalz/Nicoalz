@@ -25,7 +25,7 @@
 [![LinkedIn](/img/logo-linkedin.png)](https://www.linkedin.com/in/nicolas-bordeaux-720601207/)
 
 ***
-<img src="/img/react.png" alt="html5" width="100" height="100">
+<img src="/img/react.png" alt="html5" width="80" height="80">
 
 ![react](/img/react.png) ![nextjs](/img/nextjs.png) ![svelte](/img/svelte.png) ![tailwind](/img/tailwind.png) ![web3js](/img/web3js.png) ![typescript](/img/typescript.png) ![nodejs](/img/nodejs.png) ![serverless](/img/serverless.png) ![solidity](/img/solidity.png)
 
