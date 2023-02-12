@@ -1,4 +1,4 @@
-![Hello World](/img/hello_world.gif)
+![Hello World](/img/background.png)
 ***
 ### Hi ! I'm Nicoalz 👋
 ```
@@ -7,15 +7,15 @@
     surname: Bordeaux;
     nationality: French;
     city: Paris;
-    age: 20;
+    age: 21;
 }
 ```
 
 ***
 
-🔗 [Click here to visite my portfolio](https://portfolio.nicolasbordeaux.tk/)
+💻 Developer
 
-💻 Web Development Student
+👨‍💻 Front - Back - Blockchain - Web3
 
 🎓 IIM - Pôle Léonard de Vinci - Paris
 
@@ -26,7 +26,7 @@
 
 ***
 
-![html5](/img/html5.png) ![css3](/img/css3.png)  ![js](/img/js.png) ![php](/img/php.png) ![python](/img/python.png) ![wordpress](/img/wordpress.png) ![git](/img/git.png) ![adobe-suite](/img/adobe-suite.png) 
+![react](/img/react.png) ![nextjs](/img/nextjs.png) ![svelte](/img/svelte.png) ![tailwind](/img/tailwind.png) ![web3js](/img/web3js.png) ![typescript](/img/tailwind.png) ![nodejs](/img/nodejs.png) ![serverless](/img/serverless.png) ![solidity](/img/serverless.png) ![adobe-suite](/img/adobe-suite.png) 
 
 ***
 
