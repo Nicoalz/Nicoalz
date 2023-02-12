@@ -25,9 +25,15 @@
 [![LinkedIn](/img/logo-linkedin.png)](https://www.linkedin.com/in/nicolas-bordeaux-720601207/)
 
 ***
-<img src="/img/react.png" alt="html5" width="80" height="80">
-
-![react](/img/react.png) ![nextjs](/img/nextjs.png) ![svelte](/img/svelte.png) ![tailwind](/img/tailwind.png) ![web3js](/img/web3js.png) ![typescript](/img/typescript.png) ![nodejs](/img/nodejs.png) ![serverless](/img/serverless.png) ![solidity](/img/solidity.png)
+<img src="/img/react.png" alt="react" width="70" height="70">
+<img src="/img/nextjs.png" alt="nextjs" width="70" height="70">
+<img src="/img/svelte.png" alt="svelte" width="70" height="70">
+<img src="/img/tailwind.png" alt="tailwind" width="70" height="70">
+<img src="/img/web3js.png" alt="web3js" width="70" height="70">
+<img src="/img/typescript.png" alt="typescript" width="70" height="70">
+<img src="/img/nodejs.png" alt="nodejs" width="70" height="70">
+<img src="/img/serverless.png" alt="serverless" width="70" height="70">
+<img src="/img/solidity.png" alt="solidity" width="70" height="70">
 
 ***
 
