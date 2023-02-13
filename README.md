@@ -13,7 +13,7 @@
 
 ***
 
-💻 Developer
+💻 Fullstack Developer
 
 👨‍💻 Front - Back - Blockchain - Web3
 
