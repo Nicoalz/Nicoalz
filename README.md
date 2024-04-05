@@ -2,12 +2,14 @@
 ***
 ### Hi ! I'm Nicoalz 👋
 ```
-#nicoalz {
-    name: Nicolas;
-    surname: Bordeaux;
-    nationality: French;
-    city: Paris;
+const nicoalz = {
+    name: "Nicolas";
+    surname: "Bordeaux";
+    nationality: "French";
+    city: "Paris";
     age: 22;
+    role: "Fullstack";
+    field: "web3";
 }
 ```
 
