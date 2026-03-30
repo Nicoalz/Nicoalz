@@ -23,7 +23,6 @@ const nicoalz = {
 [![LinkedIn](/img/logo-linkedin.png)](https://www.linkedin.com/in/nicolas-bordeaux-720601207/)
 
 ***
-<img src="/img/react.png" alt="react" width="70" height="70"><img src="/img/nextjs.png" alt="nextjs" width="70" height="70"><img src="/img/svelte.png" alt="svelte" width="70" height="70"><img src="/img/tailwind.png" alt="tailwind" width="70" height="70"><img src="/img/web3js.png" alt="web3js" width="70" height="70"><img src="/img/typescript.png" alt="typescript" width="70" height="70"><img src="/img/nodejs.png" alt="nodejs" width="70" height="70"><img src="/img/serverless.png" alt="serverless" width="70" height="70"><img src="/img/solidity.png" alt="solidity" width="70" height="70">
 
 ***
 
