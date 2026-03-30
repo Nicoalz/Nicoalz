@@ -7,9 +7,9 @@ const nicoalz = {
     surname: "Bordeaux";
     nationality: "French";
     city: "Paris";
-    age: 22;
+    age: 24;
     role: "Fullstack";
-    field: "web3";
+    field: "AI, web3, fullstack";
 }
 ```
 
@@ -17,11 +17,7 @@ const nicoalz = {
 
 💻 Fullstack Developer
 
-👨‍💻 Front - Back - Blockchain - Web3
-
-🎓 IIM - Pôle Léonard de Vinci - Paris
-
-📧 Mail : <nicolas.bordeaux@edu.devinci.fr>
+👨‍💻 Front - Back - AI - Blockchain - Web3
 
 🤝 Connect with me : <br>
 [![LinkedIn](/img/logo-linkedin.png)](https://www.linkedin.com/in/nicolas-bordeaux-720601207/)
