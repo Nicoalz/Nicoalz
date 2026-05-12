@@ -1,12 +1,9 @@
-![Hello World](/img/background.png)
 ***
 ### Hi ! I'm Nicoalz 👋
 
 ***
 
 💻 Fullstack Developer
-
-👨‍💻 Front - Back - AI - Blockchain - Web3
 
 ***
 
