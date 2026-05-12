@@ -1,11 +1,8 @@
-***
 ### Hi ! I'm Nicoalz 👋
 
 ***
 
 💻 Fullstack Developer
-
-***
 
 ***
 
